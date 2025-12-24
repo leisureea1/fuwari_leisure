@@ -58,16 +58,16 @@ export const profileConfig: ProfileConfig = {
 	bio: "Do Everything",
 	links: [
 		{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+			name: "QQ",
+			icon: "fa6-brands:qq", // Visit https://icones.js.org/ for icon codes
 			// You will need to install the corresponding icon set if it's not already included
 			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
+			url: "https://qm.qq.com/q/5B1UjwghKo",
 		},
 		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
+			name: "Email",
+			icon: "fa6-solid:envelope",
+			url: "mailto:486261950@qq.com",
 		},
 		{
 			name: "GitHub",
