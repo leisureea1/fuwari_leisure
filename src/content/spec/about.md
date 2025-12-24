@@ -1,9 +1,29 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于我
 
-::github{repo="saicaca/fuwari"}
+你好！我是 **Leisure**，欢迎来到我的小站 ✨
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## 🎯 座右铭
+
+> Do Everything — 尽情尝试
+
+我相信生活就是不断探索和尝试的过程，保持好奇心，勇于尝试新事物。
+
+## 💻 关于这个博客
+
+这里是我记录学习、分享想法的地方。你可能会在这里看到：
+
+- 技术笔记与踩坑记录
+- 有趣的项目和工具分享
+- 生活随笔与思考
+
+## 📬 联系我
+
+如果你想和我交流，可以通过以下方式找到我：
+
+- **QQ**: [点击加好友](https://qm.qq.com/q/5B1UjwghKo)
+- **Email**: 486261950@qq.com
+- **GitHub**: [leisureea1](https://github.com/leisureea1)
+
+---
+
+感谢你的来访，希望这里的内容对你有所帮助 🌟
